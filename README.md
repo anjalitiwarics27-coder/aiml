@@ -1,42 +1,69 @@
 <div align="center">
 
-<svg width="100%" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="50%" stop-color="#1e293b"/>
+      <stop offset="45%" stop-color="#1e1b4b"/>
       <stop offset="100%" stop-color="#312e81"/>
     </linearGradient>
     <linearGradient id="txt" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#38bdf8"/>
-      <stop offset="100%" stop-color="#a78bfa"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#e879f9"/>
     </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#4f46e5" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#4f46e5" stop-opacity="0"/>
+    </radialGradient>
   </defs>
-  <rect width="900" height="180" rx="18" fill="url(#bg)"/>
-  <circle cx="80" cy="40" r="3" fill="#38bdf8" opacity="0.8"/>
-  <circle cx="820" cy="140" r="4" fill="#a78bfa" opacity="0.8"/>
-  <circle cx="760" cy="35" r="2.5" fill="#38bdf8" opacity="0.6"/>
-  <circle cx="120" cy="145" r="2.5" fill="#a78bfa" opacity="0.6"/>
-  <text x="450" y="85" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" fill="url(#txt)" text-anchor="middle">AI / ML Engineer Journey</text>
-  <text x="450" y="125" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#cbd5e1" text-anchor="middle">Python &#8226; SQL &#8226; NumPy &#8226; Pandas &#8226; Statistics &#8226; ML &#8226; Deep Learning &#8226; GenAI &#8226; RAG &amp; Agents</text>
+  <rect width="900" height="220" rx="20" fill="url(#bg)"/>
+  <circle cx="450" cy="110" r="220" fill="url(#glow)"/>
+  <circle cx="70" cy="45" r="3" fill="#38bdf8" opacity="0.9"/>
+  <circle cx="840" cy="170" r="4" fill="#e879f9" opacity="0.9"/>
+  <circle cx="800" cy="40" r="2.5" fill="#818cf8" opacity="0.7"/>
+  <circle cx="100" cy="180" r="2.5" fill="#38bdf8" opacity="0.7"/>
+  <circle cx="450" cy="30" r="2" fill="#a78bfa" opacity="0.6"/>
+  <line x1="70" y1="45" x2="450" y2="30" stroke="#38bdf8" stroke-width="0.6" opacity="0.35"/>
+  <line x1="450" y1="30" x2="800" y2="40" stroke="#818cf8" stroke-width="0.6" opacity="0.35"/>
+  <line x1="100" y1="180" x2="450" y2="30" stroke="#a78bfa" stroke-width="0.6" opacity="0.25"/>
+  <text x="450" y="95" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="800" fill="url(#txt)" text-anchor="middle">AI / ML Engineer Journey</text>
+  <text x="450" y="130" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#cbd5e1" text-anchor="middle">Python &#8226; SQL &#8226; NumPy &#8226; Pandas &#8226; Statistics &#8226; ML &#8226; Deep Learning &#8226; GenAI &#8226; RAG &amp; Agents</text>
+  <rect x="325" y="155" width="250" height="30" rx="15" fill="#ffffff" opacity="0.08"/>
+  <text x="450" y="175" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#e0e7ff" text-anchor="middle" letter-spacing="1">FROM ZERO TO AI ENGINEER 🚀</text>
 </svg>
 
 # 🤖 AI &amp; Machine Learning with AI
 
 ### *Learners Earners Upskilling Program*
 
-[![Status](https://img.shields.io/badge/status-in%20progress-brightgreen?style=for-the-badge)](#)
-[![Faculty](https://img.shields.io/badge/faculty-Aditya%20Jain%20Sir-blueviolet?style=for-the-badge)](#)
-[![Duration](https://img.shields.io/badge/duration-30%20Weeks-orange?style=for-the-badge)](#)
-[![Sessions](https://img.shields.io/badge/sessions-137-informational?style=for-the-badge)](#)
+[![Status](https://img.shields.io/badge/status-in%20progress-brightgreen?style=for-the-badge&logo=progress&logoColor=white)](#)
+[![Faculty](https://img.shields.io/badge/faculty-Aditya%20Jain%20Sir-blueviolet?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
+[![Duration](https://img.shields.io/badge/duration-30%20Weeks-orange?style=for-the-badge&logo=googlecalendar&logoColor=white)](#)
+[![Sessions](https://img.shields.io/badge/sessions-137-informational?style=for-the-badge&logo=bookstack&logoColor=white)](#)
+[![License](https://img.shields.io/badge/license-Learning%20Only-lightgrey?style=for-the-badge)](#)
+
+<br>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=white)](#)
 [![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](#)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](#)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](#)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](#)
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 📊 Overall Progress
+
+<img src="https://progress-bar.xyz/8/?title=Module%201%20of%2012&width=500&color=6366f1&suffix=%25" alt="progress" />
 
 </div>
 
@@ -338,10 +365,24 @@ aiml/
 
 ## 👩‍💻 About Me
 
-**Anjali Tiwari**
-Aspiring AI/ML Engineer | Documenting my learning journey in public
+<table>
+<tr>
+<td width="90" align="center">
+<img src="https://api.dicebear.com/7.x/initials/svg?seed=Anjali%20Tiwari&backgroundColor=6366f1,818cf8,a78bfa&backgroundType=gradientLinear" width="70" height="70" style="border-radius:50%" alt="AT"/>
+</td>
+<td>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anjalitiwarics27-coder)
+**Anjali Tiwari**
+Aspiring AI/ML Engineer &nbsp;|&nbsp; Documenting my learning journey in public 🚀
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anjalitiwarics27-coder)
+[![Learning](https://img.shields.io/badge/currently%20learning-Python%20%26%20OOP-6366f1?style=flat-square)](#)
+
+</td>
+</tr>
+</table>
+
+> 💡 *Note: the avatar above is auto-generated from initials (via DiceBear) — 100% reliable, no broken image risk. Replace it any time with your own photo by uploading to `assets/profile.png` and swapping the URL.*
 
 ---
 
@@ -349,6 +390,10 @@ Aspiring AI/ML Engineer | Documenting my learning journey in public
 
 ### 🌟 If you're on a similar journey, feel free to star ⭐ this repo and follow along!
 
-*Guided by Aditya Jain Sir · Learners Earners Upskilling Program*
+*Guided by **Aditya Jain Sir** · Learners Earners Upskilling Program*
+
+<br>
+
+<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=flat-square" alt="made with love"/> <img src="https://img.shields.io/badge/Powered%20by-Consistency-6366f1?style=flat-square" alt="consistency"/>
 
 </div>
