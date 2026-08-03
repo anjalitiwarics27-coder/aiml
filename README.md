@@ -84,10 +84,10 @@ It contains my notes, practice code, mini-projects, and capstone work as I progr
 ```
 aiml/
 │
-├── Python Essentials/        # Weeks 1–4  → Core Python basics
-├── Python for ai ml/         # Weeks 5–7  → OOP, File/CSV/JSON handling, APIs
-├── README.md                 # You are here 📍
-└── (upcoming folders)        # SQL, NumPy, Pandas, ML, DL, GenAI, RAG & Agents...
+├── Python Essentials/        
+├── Python for ai ml/        
+├── README.md                
+└── (upcoming folders)        
 ```
 
 ---
