@@ -63,7 +63,7 @@
 
 ### 📊 Overall Progress
 
-<img src="https://progress-bar.xyz/8/?title=Module%201%20of%2012&width=500&color=6366f1&suffix=%25" alt="progress" />
+<img src="https://progress-bar.xyz/33/?title=Module%204%20of%2012&width=500&color=6366f1&suffix=%25" alt="progress" />
 
 </div>
 
@@ -84,10 +84,12 @@ It contains my notes, practice code, mini-projects, and capstone work as I progr
 ```
 aiml/
 │
-├── Python Essentials/        
-├── Python for ai ml/        
-├── README.md                
-└── (upcoming folders)        
+├── Python Essentials/        ✅ Module 1
+├── Python for ai ml/         ✅ Module 2
+├── mysql for ai ml/          ✅ Module 3
+├── numpy/                    ✅ Module 4
+├── README.md
+└── (upcoming: Pandas, Visualization, Statistics, ML, DL, GenAI...)
 ```
 
 ---
@@ -95,7 +97,7 @@ aiml/
 ## 🗓️ Full Curriculum Roadmap
 
 <details>
-<summary><b>🐍 Module 1 — Python Essentials</b> (Weeks 1–4 · 12 sessions)</summary>
+<summary><b>🐍 Module 1 — Python Essentials</b> (Weeks 1–4 · 12 sessions) ✅</summary>
 
 | # | Topic |
 |---|-------|
@@ -115,7 +117,7 @@ aiml/
 </details>
 
 <details>
-<summary><b>🧠 Module 2 — Python for ML & AI</b> (Weeks 5–7 · 12 sessions)</summary>
+<summary><b>🧠 Module 2 — Python for ML & AI</b> (Weeks 5–7 · 12 sessions) ✅</summary>
 
 | # | Topic |
 |---|-------|
@@ -135,7 +137,7 @@ aiml/
 </details>
 
 <details>
-<summary><b>🗄️ Module 3 — SQL for ML & AI</b> (Weeks 8–11 · 18 sessions)</summary>
+<summary><b>🗄️ Module 3 — SQL for ML & AI</b> (Weeks 8–11 · 18 sessions) ✅</summary>
 
 | # | Topic |
 |---|-------|
@@ -161,7 +163,7 @@ aiml/
 </details>
 
 <details>
-<summary><b>🔢 Module 4 — NumPy</b> (Weeks 11–12 · 6 sessions)</summary>
+<summary><b>🔢 Module 4 — NumPy</b> (Weeks 11–12 · 6 sessions) ✅</summary>
 
 | # | Topic |
 |---|-------|
@@ -175,7 +177,7 @@ aiml/
 </details>
 
 <details>
-<summary><b>🐼 Module 5 — EDA using Pandas</b> (Weeks 12–15 · 12 sessions)</summary>
+<summary><b>🐼 Module 5 — EDA using Pandas</b> (Weeks 12–15 · 12 sessions) 🔄 Current</summary>
 
 | # | Topic |
 |---|-------|
@@ -332,9 +334,9 @@ aiml/
 ## ✅ Progress Tracker
 
 - [x] **Module 1:** Python Essentials
-- [ ] **Module 2:** Python for ML & AI
-- [ ] **Module 3:** SQL for ML & AI
-- [ ] **Module 4:** NumPy
+- [x] **Module 2:** Python for ML & AI
+- [x] **Module 3:** SQL for ML & AI
+- [x] **Module 4:** NumPy
 - [ ] **Module 5:** EDA using Pandas
 - [ ] **Module 6:** Data Visualization
 - [ ] **Module 7:** Probability & Statistics
@@ -376,7 +378,7 @@ aiml/
 Aspiring AI/ML Engineer &nbsp;|&nbsp; Documenting my learning journey in public 🚀
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anjalitiwarics27-coder)
-[![Learning](https://img.shields.io/badge/currently%20learning-Python%20%26%20OOP-6366f1?style=flat-square)](#)
+[![Learning](https://img.shields.io/badge/currently%20learning-Pandas%20%26%20EDA-6366f1?style=flat-square)](#)
 
 </td>
 </tr>
